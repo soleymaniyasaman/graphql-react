@@ -31,6 +31,7 @@ function App() {
     })
       .then((response) => response.json())
       .then((data) => {
+        console.log("data", data);
         const viewer = data.data.viewer;
         const repos = data.data.search.edges;
         const total = data.data.search.repositoryCount;
