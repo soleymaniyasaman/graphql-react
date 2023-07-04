@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/graphql-react/static/css/main.887c5484.chunk.css",
+    "main.js": "/graphql-react/static/js/main.7f48cb0f.chunk.js",
+    "main.js.map": "/graphql-react/static/js/main.7f48cb0f.chunk.js.map",
+    "runtime-main.js": "/graphql-react/static/js/runtime-main.f0852001.js",
+    "runtime-main.js.map": "/graphql-react/static/js/runtime-main.f0852001.js.map",
+    "static/css/2.1e287fdb.chunk.css": "/graphql-react/static/css/2.1e287fdb.chunk.css",
+    "static/js/2.16219d29.chunk.js": "/graphql-react/static/js/2.16219d29.chunk.js",
+    "static/js/2.16219d29.chunk.js.map": "/graphql-react/static/js/2.16219d29.chunk.js.map",
+    "index.html": "/graphql-react/index.html",
+    "static/css/2.1e287fdb.chunk.css.map": "/graphql-react/static/css/2.1e287fdb.chunk.css.map",
+    "static/css/main.887c5484.chunk.css.map": "/graphql-react/static/css/main.887c5484.chunk.css.map",
+    "static/js/2.16219d29.chunk.js.LICENSE.txt": "/graphql-react/static/js/2.16219d29.chunk.js.LICENSE.txt",
+    "static/media/custom.scss": "/graphql-react/static/media/bootstrap-icons.7d38a258.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0852001.js",
+    "static/css/2.1e287fdb.chunk.css",
+    "static/js/2.16219d29.chunk.js",
+    "static/css/main.887c5484.chunk.css",
+    "static/js/main.7f48cb0f.chunk.js"
+  ]
+}
