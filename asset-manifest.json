@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/graphql-react/static/css/main.887c5484.chunk.css",
-    "main.js": "/graphql-react/static/js/main.7f48cb0f.chunk.js",
-    "main.js.map": "/graphql-react/static/js/main.7f48cb0f.chunk.js.map",
+    "main.js": "/graphql-react/static/js/main.6ab06afc.chunk.js",
+    "main.js.map": "/graphql-react/static/js/main.6ab06afc.chunk.js.map",
     "runtime-main.js": "/graphql-react/static/js/runtime-main.f0852001.js",
     "runtime-main.js.map": "/graphql-react/static/js/runtime-main.f0852001.js.map",
     "static/css/2.1e287fdb.chunk.css": "/graphql-react/static/css/2.1e287fdb.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.1e287fdb.chunk.css",
     "static/js/2.16219d29.chunk.js",
     "static/css/main.887c5484.chunk.css",
-    "static/js/main.7f48cb0f.chunk.js"
+    "static/js/main.6ab06afc.chunk.js"
   ]
 }
